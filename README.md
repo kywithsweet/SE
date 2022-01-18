@@ -1,5 +1,14 @@
 This is SE Projects By Center of the Road Group
 
+Group members:
+Frontend: Yuwei Xia, Kaiyue Wang
+Backend: Bowei Wu, Yingjie Chen
+
+Technological stack:
+Frontend: Angular etc.
+Backend: Golang, Gin, Sqlx, Bolt etc.
+Database: Mysql, Mongodb etc.
+
 # **Gator-forum**
 ## **Introduction**
 Basically, Gator-forum is similar to any other forums, like Stack Overflow, Douban, Quora, Reddit… But we hope it is more student-life related instead of society-related or limited in specific field.
@@ -26,7 +35,7 @@ But they seem to be all sports-related. Although lots of students have a huge in
 	1. reply to others posts
 	2. reply to private messages
 	3. create new post in group or in his/her own page
-	4. add/delete friends
+	4. subscribe/ unsubscribe a user
 	5. join groups/communities
 	6. anonymous post
 	7. block/report/like/dislike/follow others users/posts
