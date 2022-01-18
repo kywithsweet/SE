@@ -1,13 +1,13 @@
 This is SE Projects By Center of the Road Group
 
-Group members:
-Frontend: Yuwei Xia, Kaiyue Wang
-Backend: Bowei Wu, Yingjie Chen
+**Group members:**
+- Frontend: Yuwei Xia, Kaiyue Wang
+- Backend: Bowei Wu, Yingjie Chen
 
-Technological stack:
-Frontend: Angular etc.
-Backend: Golang, Gin, Sqlx, Bolt etc.
-Database: Mysql, Mongodb etc.
+**Technological stack:**
+- Frontend: Angular etc.
+- Backend: Golang, Gin, Sqlx, Bolt etc.
+- Database: Mysql, Mongodb etc.
 
 # **Gator-forum**
 ## **Introduction**
