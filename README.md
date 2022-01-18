@@ -5,7 +5,7 @@ This is SE Projects By Center of the Road Group
 - Backend: Bowei Wu, Yingjie Chen
 
 **Technological stack:**
-- Frontend: Angular etc.
+- Frontend: React etc.
 - Backend: Golang, Gin, Sqlx, Bolt etc.
 - Database: Mysql, Mongodb etc.
 
