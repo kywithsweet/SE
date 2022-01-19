@@ -6,7 +6,7 @@ This is SE Projects By Center of the Road Group
 
 **Technological stack:**
 - Frontend: React etc.
-- Backend: Golang, Gin, Sqlx, Bolt etc.
+- Backend: Golang, Gin, Sqlx, Gobatis, Bolt etc.
 - Database: Mysql, Mongodb etc.
 
 # **Gator-forum**
