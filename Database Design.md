@@ -15,7 +15,7 @@
 	- gender(f/m/unknow)
 	-  department
 		//- (university)
-- Personal Rewards(用户分数)
+  - Personal Rewards(用户分数)
 	- id
 	- username
 	- points
