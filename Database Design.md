@@ -15,10 +15,6 @@
 	- gender(f/m/unknow)
 	-  department
 		//- (university)
-  - Personal Rewards(用户分数) (待定)
-	- id
-	- username
-	- points
   - Personal Space Table(个人云)
 	- username
 	- usage
@@ -49,6 +45,7 @@
 	- comment\_number
 	- like\_number (点赞)
 	- favorite\_number (收藏)
+	- point (rewards)
   - Article Type Table
 	- id
 	- name
